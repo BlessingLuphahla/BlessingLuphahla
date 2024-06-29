@@ -1,4 +1,4 @@
 scss
 result
 sasscomp.bat
-*.config.js
+purgecss.config.js
