@@ -2,3 +2,4 @@ scss
 result
 sasscomp.bat
 purgecss.config.js
+*.map
