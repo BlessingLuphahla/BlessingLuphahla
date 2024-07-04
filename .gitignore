@@ -1,3 +1,5 @@
+.gitignore
+.gitattributes
 scss
 result
 sasscomp.bat
