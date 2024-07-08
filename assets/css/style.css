@@ -1029,7 +1029,7 @@ section {
   font-weight: 400;
   padding-left: 25px;
   cursor: pointer;
-  color: #d01d3f;
+  color: #0008ff;
   transition: 0.3s;
 }
 
@@ -1289,7 +1289,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #d01d3f;
+  background: #0008ff;
 }
 
 @keyframes animate-loading {
@@ -1977,7 +1977,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #d01d3f;
+  background: #0008ff;
 }
 
 #footer .credits {
@@ -2002,7 +2002,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #d01d3f;
+  background: #0008ff;
   color: #fff;
   text-decoration: none;
 }
