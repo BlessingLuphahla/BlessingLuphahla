@@ -1,3 +1,3 @@
-# pakama-website
+# REDD AXE WEBSITE
 
-a website of the pakama business plartform
+a website for a self taught software engineer
