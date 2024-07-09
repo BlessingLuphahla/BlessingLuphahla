@@ -5,3 +5,4 @@ result
 sasscomp.bat
 purgecss.config.js
 *.map
+.hintrc
