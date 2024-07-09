@@ -1,4 +1,8 @@
 User-Agent: *
 Disallow:/assets/
+Disallow:/assets/js
+Disallow:/assets/css
+Disallow:/assets/vendor
+Disallow:/assets/img
+Disallow:/assets/Blessing CV.pdf
 Disallow:/LICENSE
-Disallow:/Blessing CV.pdf
