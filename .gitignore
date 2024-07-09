@@ -6,3 +6,4 @@ sasscomp.bat
 purgecss.config.js
 *.map
 .hintrc
+prepros.config
