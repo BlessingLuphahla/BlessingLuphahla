@@ -1,1 +1,0 @@
-const form=document.getElementById("email-form");form.addEventListener("submit",function(e){e.preventDefault();const t=document.getElementById("name").value,m=document.getElementById("email").value,n=document.getElementById("message").value,a=`mailto:luphahlablessingthamsanqa@gmail.com?subject=New message from ${t}&body=${n}%0D%0A%0D%0AFrom: ${t} (${m})`;window.location.href=a});
