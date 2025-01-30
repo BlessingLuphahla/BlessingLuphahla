@@ -1,5 +1,3 @@
-# REDD AXE
-
 # Hi there, I'm Blessing Luphahla! 👋
 
 I'm a self-taught web developer with a passion for creating dynamic and responsive web applications. I specialize in front-end development and have experience with a variety of technologies, including:
