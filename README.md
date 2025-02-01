@@ -7,15 +7,20 @@ I'm a self-taught web developer with a passion for creating dynamic and responsi
   - CSS/Sass
   - JavaScript/TypeScript
   - Python
+  - Dart
+ 
 
 
 - **Frameworks and Libraries:**
   - React
   - Flask
+  - ExpressJS / NodeJS
+  - Flutter
 
 - **Tools and Platforms:**
   - Git/GitHub
   - Vercel
+  - Render
 
 ## Projects
 
