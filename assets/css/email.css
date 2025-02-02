@@ -1,2 +1,17 @@
+/* .contact-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto;
+    gap: 25px;
+    justify-items: center;
+    align-content: center;
+  } */
 
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    justify-items: center;
+    align-content: center;
+  }
 
