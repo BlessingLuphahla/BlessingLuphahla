@@ -36,6 +36,7 @@
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
     <!-- Template Main CSS File -->
     <link href="assets/css/style.css" rel="stylesheet" />
+    <link href="assets/css/email.css" rel="stylesheet" />
   </head>
   <body>
     <!-- ======= Header ======= -->
@@ -60,8 +61,15 @@
         <h3>Welcome to <strong>REDD AXE's portfolio</strong></h3>
         <h1>I am a self taught software engineer</h1>
         <h2>I am a passionate and hard working young man</h2>
-        <a href="https://github.com/BlessingLuphahla/" class="scrollto btn-get-started">CHECK MY WORK ON GITHUB</a> <br>
-        <a href="./assets/Blessing CV.pdf" class="scrollto btn-get-started">CHECK OUT MY CV</a>
+        <a
+          href="https://github.com/BlessingLuphahla/"
+          class="scrollto btn-get-started"
+          >CHECK MY WORK ON GITHUB</a
+        >
+        <br />
+        <a href="./assets/Blessing CV.pdf" class="scrollto btn-get-started"
+          >CHECK OUT MY CV</a
+        >
       </div>
     </section>
     <!-- End Hero -->
@@ -174,7 +182,7 @@
         </div>
       </section>
       <!-- End Cta Section --><!-- ======= Portfolio Section ======= -->
-      
+
       <!-- End Portfolio Section --><!-- ======= Contact Section ======= -->
       <section id="contact" class="contact">
         <div class="container">
@@ -208,9 +216,8 @@
             </div>
             <div class="mt-5 col-lg-8 mt-lg-0">
               <form
-                action="javascript:const form=document.getElementById('email-form');form.addEventListener('submit',function(e){e.preventDefault();const t=document.getElementById('name').value,m=document.getElementById('email').value,n=document.getElementById('message').value,a=`mailto:luphahlablessingthamsanqa@gmail.com?subject=Business message from ${t}&body=${n}Hi REDD AXE I am ${t}`;window.location.href=a});"
-                class="php-email-form"
                 id="email-form"
+                class="contact-form"
                 method="post"
                 role="form"
               >
@@ -218,48 +225,80 @@
                   <div class="col-md-6 form-group">
                     <input
                       class="form-control"
-                      id="name"
-                      name="name"
-                      placeholder="Your Name"
+                      id="first-name"
+                      name="firstName"
+                      placeholder="Your First Name"
                       required
                     />
                   </div>
                   <div class="col-md-6 form-group mt-3 mt-md-0">
                     <input
                       class="form-control"
-                      id="email"
-                      name="email"
-                      placeholder="Your Email"
+                      id="last-name"
+                      name="lastName"
+                      placeholder="Your Last Name"
                       required
-                      type="email"
                     />
                   </div>
                 </div>
                 <div class="form-group mt-3">
                   <input
                     class="form-control"
-                    id="subject"
-                    name="subject"
-                    placeholder="Subject"
+                    id="phone-number"
+                    name="phoneNumber"
+                    placeholder="Your Phone Number"
                     required
                   />
                 </div>
                 <div class="form-group mt-3">
-                  <textarea
+                  <input
                     class="form-control"
-                    id="message"
-                    name="message"
-                    placeholder="Message"
+                    id="email"
+                    name="email"
+                    placeholder="Your Email"
                     required
-                    rows="5"
-                  ></textarea>
+                    type="email"
+                  />
                 </div>
-                <div class="my-3">
-                  <div class="loading">Loading</div>
-                  <div class="error-message"></div>
-                  <div class="sent-message">
-                    Your message has been sent. Thank you!
-                  </div>
+                <div class="form-group mt-3">
+                  <input
+                    class="form-control"
+                    id="company"
+                    name="company"
+                    placeholder="Your Company (optional)"
+                  />
+                </div>
+                <div class="form-group mt-3">
+                  <label for="checkboxQueries">Select Areas of Interest:</label
+                  ><br />
+                  <input
+                    type="checkbox"
+                    name="checkboxQueries"
+                    id="checkbox1"
+                    value="Web Development"
+                  />
+                  Web Development <br />
+                  <input
+                    type="checkbox"
+                    name="checkboxQueries"
+                    id="checkbox2"
+                    value="Cybersecurity"
+                  />
+                  Cybersecurity <br />
+                  <input
+                    type="checkbox"
+                    name="checkboxQueries"
+                    id="checkbox3"
+                    value="Data Science"
+                  />
+                  Data Science <br />
+                  <input
+                    type="checkbox"
+                    name="checkboxQueries"
+                    id="checkbox4"
+                    value="Flutter"
+                  />
+                  Flutter <br />
                 </div>
                 <div class="text-center">
                   <button type="submit">Send Message</button>
