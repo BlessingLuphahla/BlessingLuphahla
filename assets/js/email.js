@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const companyInput = document.getElementById("company");
     const checkboxes = document.querySelectorAll('input[type="checkbox"]');
     const feedbackElement = document.createElement("div");
-  
+
     feedbackElement.classList.add("contact-form__feedback");
     form.appendChild(feedbackElement);
   
