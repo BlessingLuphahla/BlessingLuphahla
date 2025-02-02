@@ -1,10 +1,10 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const form = document.querySelector(".contact-form");
-    const firstNameInput = document.getElementById("first-name");
-    const lastNameInput = document.getElementById("last-name");
-    const phoneNumberInput = document.getElementById("phone-number");
-    const emailInput = document.getElementById("email");
-    const companyInput = document.getElementById("company");
+    const form = document.querySelector("#contact-form");
+    const firstNameInput = document.querySelector("#first-name");
+    const lastNameInput = document.querySelector("#last-name");
+    const phoneNumberInput = document.querySelector("#phone-number");
+    const emailInput = document.querySelector("#email");
+    const companyInput = document.querySelector("#company");
     const checkboxes = document.querySelectorAll('input[type="checkbox"]');
     const feedbackElement = document.createElement("div");
 
@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
       if (validateForm()) {
         sendEmail();
       } else {
-        showFeedback("Message Not Sent Please Correct Any Errors", false);
+        showFeedback("Message Not Sent. Please Correct Any Errors.", false);
       }
     });
   
@@ -138,6 +138,4 @@ document.addEventListener("DOMContentLoaded", function () {
         feedbackElement.style.display = "none";
       }, 5000);
     }
-  });
-  
-
+});
