@@ -96,3 +96,14 @@ A simple calculator application built using Flutter. This project serves as a st
 I'm dedicated to continuous learning and improvement, always seeking to expand my skill set and take on new challenges. I thrive on problem-solving and enjoy bringing ideas to life through code.
 
 Feel free to explore my repositories to see more of my work. I'm always open to collaboration and feedback. Let's connect and create something amazing together!
+
+## Contact Me
+
+Feel free to reach out through any of the following platforms:
+
+- **Email:** [luphahlablessingthamsanqa@gmail.com](mailto:luphahlablessingthamsanqa@gmail.com)
+- **LinkedIn:** [Blessing Luphahla](https://www.linkedin.com/in/your-profile)
+- **Whatsapp:** [redd axe](https://wa.me/+263788793302)
+- **Website:** [reddaxe-portfolio.vercel.app]([https://www.yourwebsite.com](https://reddaxe-portfolio.vercel.app/))
+
+
