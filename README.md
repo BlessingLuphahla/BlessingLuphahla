@@ -28,7 +28,44 @@ Here are some of the projects I've been working on:
 
 ### [Social Media App](https://github.com/BlessingLuphahla/social-media)
 
-A social media application built using the MERN stack (MongoDB, Express.js, React, Node.js). This project illustrates my capability to develop full-stack applications and manage both front-end and back-end development.
+A social media application built using the MERN stack (MongoDB, Express.js, React, Node.js). This project illustrates my capability to develop full-stack applications and manage both front-end and back-end development.The API for the backend is created in a different repostory and hosted seperately
+
+#### Key Features:
+
+- User Authentication (Sign up, Login, and Logout)
+- Real-time Post and Comment System
+- Follow and Unfollow Users
+- Like and Share Posts
+- Responsive UI built with React and styled-components
+- RESTful API built with Express.js and Node.js
+- MongoDB for data storage
+
+#### Technologies Used:
+
+- **Frontend**: React, styled-components, Axios
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: JWT (JSON Web Tokens)
+- **Real-time Updates**: Socket.io
+
+### [Redd Tube/Axe Media](https://github.com/BlessingLuphahla/Redd-Tube)
+
+A YouTube clone application built using React, styled-components, and various Material UI icons. This project showcases my skills in front-end development, including dynamic component rendering, state management, and responsive UI design. The app allows users to explore and navigate content, switch between light and dark modes, and interact with a sidebar for seamless navigation.The API for the backend is created in a different repostory and hosted seperately
+
+#### Key Features:
+
+- Dynamic Sidebar with icons and links
+- Light and Dark Mode toggle
+- User Authentication (Sign-in to like videos, comment, and subscribe)
+- Responsive layout with a mobile-friendly design
+- Navigation with React Router
+- Customizable theme using React context
+
+#### Technologies Used:
+
+- **Frontend**: React, styled-components, Material UI, React Router
+- **State Management**: React Context API
+- **UI**: Material UI Icons, custom CSS styling
 
 ### [Social Media REST API](https://github.com/BlessingLuphahla/social-media-rest-api)
 
