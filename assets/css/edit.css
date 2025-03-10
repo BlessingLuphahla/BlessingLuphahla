@@ -23,6 +23,16 @@
 .portfolio-li::before {
   content: "⁜ ";
   color: #070ed7a8;
-  font-weight: bold;
+  font-weight: lighter;
   font-size: 22px;
+}
+
+.portfolioProjectsLink {
+  font-weight: bold;
+  text-transform: capitalize;
+  font-size: 14px;
+}
+
+.portfolioProjectsLink:hover {
+    color: #070ed7d6;
 }
