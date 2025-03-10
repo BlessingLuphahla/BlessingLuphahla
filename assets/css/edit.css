@@ -1,0 +1,28 @@
+.portfolioContainer {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.portfolioProjects {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.portfolio-ul {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.portfolio-li {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.portfolio-li::before {
+  content: "⁜ ";
+  color: #070ed7a8;
+  font-weight: bold;
+  font-size: 22px;
+}
