@@ -4,5 +4,5 @@ Disallow:/assets/js
 Disallow:/assets/css
 Disallow:/assets/vendor
 Disallow:/assets/img
-Disallow:/assets/Blessing CV.pdf
+Disallow:/assets/Blessing_Luphahla_Resume.pdf
 Disallow:/LICENSE
