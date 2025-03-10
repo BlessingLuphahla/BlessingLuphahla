@@ -34,5 +34,32 @@
 }
 
 .portfolioProjectsLink:hover {
-    color: #070ed7d6;
+  color: #070ed7d6;
+}
+
+.icon-box {
+  margin: 20px 0px;
+}
+
+.introText {
+  width: 80%;
+  text-align: center;
+}
+
+.portfolioProjectsTitle {
+  font-size: 20px;
+}
+
+#projects {
+  font-size: 25px;
+  font-weight: 500;
+  color: #070ed7a8;
+  background-color: #fdeff2;
+  margin: 20px 0px;
+  border-radius: 50px;
+  padding: 5px 0px;
+}
+
+.portfolioProjectsDesc {
+  font-size: 14px;
 }

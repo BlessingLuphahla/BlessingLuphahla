@@ -103,7 +103,7 @@ Feel free to reach out through any of the following platforms:
 
 - **Email:** [luphahlablessingthamsanqa@gmail.com](mailto:luphahlablessingthamsanqa@gmail.com)
 - **LinkedIn:** [Blessing Luphahla](https://www.linkedin.com/in/blessing-luphahla)
-- **Whatsapp:** [redd axe](https://wa.me/+263788793302)
+- **Whatsapp:** [Blessing Luphahla](https://wa.me/+263788793302)
 - **Website:** [reddaxe-portfolio.vercel.app]([https://www.yourwebsite.com](https://reddaxe-portfolio.vercel.app/))
 
 
