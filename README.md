@@ -28,7 +28,7 @@ Here are some of the projects I've been working on:
 
 ### [Social Media App](https://github.com/BlessingLuphahla/social-media)
 
-A social media application built using the MERN stack (MongoDB, Express.js, React, Node.js). This project illustrates my capability to develop full-stack applications and manage both front-end and back-end development.The API for the backend is created in a different repostory and hosted seperately
+A social media application built using the MERN stack (MongoDB, Express.js, React, Node.js). This project illustrates my capability to develop full-stack applications and manage both front-end and back-end development.The API for the backend is created in a different repository and hosted seperately
 
 #### Key Features:
 
@@ -50,7 +50,7 @@ A social media application built using the MERN stack (MongoDB, Express.js, Reac
 
 ### [Redd Tube/Axe Media](https://github.com/BlessingLuphahla/Redd-Tube)
 
-A YouTube clone application built using React, styled-components, and various Material UI icons. This project showcases my skills in front-end development, including dynamic component rendering, state management, and responsive UI design. The app allows users to explore and navigate content, switch between light and dark modes, and interact with a sidebar for seamless navigation.The API for the backend is created in a different repostory and hosted seperately
+A YouTube clone application built using React, styled-components, and various Material UI icons. This project showcases my skills in front-end development, including dynamic component rendering, state management, and responsive UI design. The app allows users to explore and navigate content, switch between light and dark modes, and interact with a sidebar for seamless navigation.The API for the backend is created in a different repository and hosted seperately
 
 #### Key Features:
 
