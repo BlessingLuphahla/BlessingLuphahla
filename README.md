@@ -5,7 +5,7 @@ I'm a self-taught web developer with a passion for creating dynamic and responsi
 - **Languages:**
 
   - HTML
-  - CSS/Sass
+  - CSS
   - JavaScript/TypeScript
   - Python
   - Dart
